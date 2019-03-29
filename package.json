@@ -1,7 +1,7 @@
 {
-  "name": "bitandbang",
-  "version": "1.4.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "name": "my-npx-card",
+  "version": "1.4.1",
+  "description": "A personal card for Michael Lynn (@mlynn)",
   "main": "/bin/card.js",
   "bin": {
     "bitandbang": "./bin/card.js"
@@ -26,7 +26,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Michael Lynn <mike@mlynn.org> (http://blog.mlynn.org)",
   "license": "MIT",
   "files": [
     "bin/card.js",
