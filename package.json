@@ -1,5 +1,5 @@
 {
-  "name": "my-npx-card",
+  "name": "mlynn",
   "version": "1.4.1",
   "description": "A personal card for Michael Lynn (@mlynn)",
   "main": "/bin/card.js",
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bnb/bitandbang.git"
+    "url": "https://github.com/mrlynn/mlynn.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://blog.mlynn.org",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
